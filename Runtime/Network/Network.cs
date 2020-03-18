@@ -1,4 +1,4 @@
 ﻿public class Network
 {
-    public static string Version = "3.0.0";
+    public static string Version = "4.0.0";
 }
